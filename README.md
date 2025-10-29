@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Salman Faris and I'm a Cybersecurity Reseacher, from India</h2>
+<h2 align="left">Hi 👋! My name is Salman Faris and I'm a Cybersecurity Reseacher </h2>
 
 ###
 
